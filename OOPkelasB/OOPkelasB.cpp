@@ -25,7 +25,7 @@ void Mahasiswa::printData() {
 	cout << "\nnilai : " << nilai;
 }
 
-class Matakuliah {
+class mataKuliah {
 private:
 	string kode;
 	string namaMk;
@@ -49,5 +49,13 @@ public:
 };
 
 int main() {
+	Mahasiswa mhs;
+	mataKuliah mk;
+
+	mhs.input();
+	mhs.printData();
+
+	mk.inputMk();
+	mk.tampil();
 
 }
