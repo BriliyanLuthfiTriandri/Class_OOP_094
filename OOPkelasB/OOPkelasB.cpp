@@ -7,4 +7,7 @@ private:
 	string nama;
 	float nilai;
 public:
+	void input() {
+
+	}
 };
