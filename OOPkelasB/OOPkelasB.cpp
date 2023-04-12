@@ -6,4 +6,5 @@ private:
 	int nim;
 	string nama;
 	float nilai;
+public:
 };
