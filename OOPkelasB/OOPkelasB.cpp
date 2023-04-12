@@ -31,4 +31,7 @@ private:
 	string namaMk;
 	int sks;
 public:
+	void inputMk() {
+
+	}
 };
