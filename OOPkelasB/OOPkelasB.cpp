@@ -39,4 +39,7 @@ public:
 		cout << "Masukan SKS : ";
 		cin >> sks;
 	}
+	void tampil() {
+
+	}
 };
